@@ -19,7 +19,7 @@ Open the wpbackup.py and change the follwoing settings
 * SFTP_HOST = '192.168.1.5'
 * SFTP_USER = 'root'
 * SFTP_PASSWD = 'myPassword'
-* SFTP_DIR = '/var/www/html/www.sample.com'
+* SFTP_DIR = '/var/ftp/pub/backupdir'
 * SFTP_PORT = '22'
 ```
 
