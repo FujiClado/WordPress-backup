@@ -8,7 +8,6 @@ Python script to backup Wordpress and backup database to a remote sftp server.
 * Automatic detection of database details.
 * Sftp backup to remote server.
 * Gzip compression of archive file.
-* Automatic detection of database of wordpress.
 * Complete progress report on terminal. 
 
 ### Configuring wpbackup.py. 
