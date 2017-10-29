@@ -1,7 +1,7 @@
 
 # wpbackup.py:
 
-python script to backup Wordpress and backup database to a remote sftp server.
+Python script to backup Wordpress and backup database to a remote sftp server.
 
 ## Feature List:
 
